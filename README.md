@@ -30,28 +30,17 @@ All images and data used in the experiments were collected from SuperTuxKart. Se
 
 The recorded runs for the final project are in `Homework 4/videos/`.
 
-Below are inline players for the three recorded planners. If your viewer doesn't render HTML5 video, the links below each player will open the files directly.
+![CNN planner preview](Homework 4/videos/cnn_planner_lighthouse.gif)
 
-<video controls width="480" poster="Homework 4/videos/cnn_planner_lighthouse.mp4">
-   <source src="Homework 4/videos/cnn_planner_lighthouse.mp4" type="video/mp4">
-   Your browser does not support the video tag. Download: <a href="Homework 4/videos/cnn_planner_lighthouse.mp4">CNN planner</a>
-</video>
+**CNN planner**
 
-**CNN planner** — [Open file](Homework 4/videos/cnn_planner_lighthouse.mp4)
+![MLP planner preview](Homework 4/videos/mlp_planner_lighthouse.gif)
 
-<video controls width="480" poster="Homework 4/videos/mlp_planner_lighthouse.mp4">
-   <source src="Homework 4/videos/mlp_planner_lighthouse.mp4" type="video/mp4">
-   Your browser does not support the video tag. Download: <a href="Homework 4/videos/mlp_planner_lighthouse.mp4">MLP planner</a>
-</video>
+**MLP planner**
 
-**MLP planner** — [Open file](Homework 4/videos/mlp_planner_lighthouse.mp4)
+![Transformer planner preview](Homework 4/videos/transformer_planner_lighthouse.gif)
 
-<video controls width="480" poster="Homework 4/videos/transformer_planner_lighthouse.mp4">
-   <source src="Homework 4/videos/transformer_planner_lighthouse.mp4" type="video/mp4">
-   Your browser does not support the video tag. Download: <a href="Homework 4/videos/transformer_planner_lighthouse.mp4">Transformer planner</a>
-</video>
-
-**Transformer planner** — [Open file](Homework 4/videos/transformer_planner_lighthouse.mp4)
+**Transformer planner**
 
 ## Results & notes
 
