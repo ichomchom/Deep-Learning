@@ -30,15 +30,15 @@ All images and data used in the experiments were collected from SuperTuxKart. Se
 
 The recorded runs for the final project are in `Homework 4/videos/`.
 
-![CNN planner preview](Homework 4/videos/cnn_planner_lighthouse.gif)
+[![CNN planner preview](Homework%204/videos/cnn_planner_lighthouse.gif)](Homework%204/videos/cnn_planner_lighthouse.mp4)
 
 **CNN planner**
 
-![MLP planner preview](Homework 4/videos/mlp_planner_lighthouse.gif)
+[![MLP planner preview](Homework%204/videos/mlp_planner_lighthouse.gif)](Homework%204/videos/mlp_planner_lighthouse.mp4)
 
 **MLP planner**
 
-![Transformer planner preview](Homework 4/videos/transformer_planner_lighthouse.gif)
+[![Transformer planner preview](Homework%204/videos/transformer_planner_lighthouse.gif)](Homework%204/videos/transformer_planner_lighthouse.mp4)
 
 **Transformer planner**
 
